@@ -1,7 +1,7 @@
 <h1>DIVACIR FÁTIMA</h1>
 
 <h2>Sobre</h2>
-<p>Projeto em que crie como um álbum online é publico.</p>
+<p>Projeto em que criei como um álbum online é publico.</p>
 
 ## Tecnologias
 <div>
